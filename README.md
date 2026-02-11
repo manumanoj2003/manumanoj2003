@@ -1,76 +1,95 @@
+<!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Manoj S</h1>
-<h3 align="center">🚀 Passionate Software Developer | ML Enthusiast | Cloud Learner</h3>
+
+<h3 align="center">
+🚀 Software Developer | 🤖 Machine Learning Enthusiast | ☁️ Cloud Learner
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manumanoj2003&label=Profile%20Views&color=blue&style=for-the-badge" alt="profile views"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Passionate+Software+Developer;Machine+Learning+Explorer;Cloud+Engineer+in+Progress;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=manumanoj2003&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/manumanoj2003?style=for-the-badge&color=blue" />
+<img src="https://img.shields.io/github/stars/manumanoj2003?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 BE in Information Science (CGPA: 8.58)  
-- 🌱 Currently learning **Python & MySQL**
-- 🤖 Interested in **Machine Learning & Real-Time Applications**
-- 💡 Working on **Lung Cancer Early Stage Prediction using ML**
-- 💬 Ask me about **Machine Learning, Python, Cloud**
-- 📫 Reach me at: **manu121640@gmail.com**
-- 📍 Mysuru, Karnataka, India  
+- 🎓 Bachelor of Engineering in Information Science (CGPA: 8.58)
+- 🌱 Currently mastering **Python, MySQL & Machine Learning**
+- 🤖 Building **Real-Time ML Applications**
+- ☁️ Google Cloud Certified (Associate Cloud Engineer Track)
+- 💡 Passionate about solving real-world problems using AI
+- 📍 Mysuru, Karnataka, India
+- 📫 Email: **manu121640@gmail.com**
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/manu3002/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/manu3002/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/manumanoj2003" target="blank">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<a href="https://github.com/manumanoj2003">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="mailto:manu121640@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
-
-<p align="center"> 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,mysql,html,css,docker,kubernetes,jenkins,git,gcp" />
-</p>
-
----
-
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=manumanoj2003&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=manumanoj2003&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,mysql,html,css,docker,kubernetes,jenkins,git,gcp,flask" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+🔬 **Lung Cancer Detection & Severity Prediction (ML + Flask)**  
+👁️ **Real-Time Face Recognition Attendance System**  
+⌨️ **Gesture Controlled Virtual Keyboard**  
+🚗 **Driver Drowsiness Detection using ML**
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=manumanoj2003&show_icons=true&theme=radical&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=manumanoj2003&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manumanoj2003&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manumanoj2003&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-### 🏆 GitHub Achievements
+## 🏆 Achievements & Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=manumanoj2003&theme=onedark&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=manumanoj2003&theme=radical&no-frame=true&margin-w=8"/>
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## 🔥 Current Focus
 
-- 🧠 Lung Cancer Detection System (ML + Flask)
-- 👁️ Real-Time Face Recognition Attendance System
-- 🎮 Gesture Controlled Virtual Keyboard
-- 🚗 Driver Drowsiness Detection System
+- Building Production-Ready ML Applications  
+- Improving System Design Skills  
+- Deep Learning & AI Optimization  
+- Cloud Deployment using GCP  
 
 ---
 
-⭐️ *“Always learning, always building.”*
+<h3 align="center">💡 "Code. Learn. Build. Repeat."</h3>
